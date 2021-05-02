@@ -1,0 +1,1001 @@
+"","district_name","chiefdom_name","chronic_work","Food_sec_classification","highest_edu_level","hhweight"
+"1","Kenema","Nomo","","Moderately food insecure","College/University",0.1777201
+"2","Tonkolili","Kholifa Rowala","","Marginally food secure","No School",1.5076716
+"3","Kenema","Dodo","","Moderately food insecure","No School",0.5602864
+"4","Koinadugu","Tamiso","","Marginally food secure","No School",0.1697018
+"5","Pujehun","Malen","","Marginally food secure","No School",1.0837293
+"6","Pujehun","Makpele","","Moderately food insecure","Some Primary",0.8219445
+"7","Falaba","Wollay Barawa","","Moderately food insecure","College/University",0.4146298
+"8","Kambia","Bramaia","","Marginally food secure","No School",0.51476
+"9","Western Area Slum","Slum","","Marginally food secure","Some secondary",1.2575573
+"10","Kambia","Muna Thalla","","Marginally food secure","No School",0.3762014
+"11","Bo","Bagbwe(Bagbe)","No chronic illness","Moderately food insecure","Some secondary",0.5761842
+"12","Kambia","Bramaia","","Marginally food secure","College/University",0.51476
+"13","Western Area Slum","Slum","","Food secure","College/University",1.2575573
+"14","Kenema","Kenema City","","Severely food insecure","Completed Primary",6.0810676
+"15","Falaba","Sulima","","Severely food insecure","No School",0.6566527
+"16","Bo","Bo Town","","Moderately food insecure","Vocational/Technical Institute",4.9102714
+"17","Kambia","Muna Thalla","","Moderately food insecure","No School",0.3762014
+"18","Port Loko","Maforki","","Marginally food secure","Some secondary",1.534993
+"19","Koinadugu","Nieni","","Marginally food secure","No School",0.6801502
+"20","Bo","Bagbo","","Moderately food insecure","No School",0.8386451
+"21","Tonkolili","Kholifa Rowala","","Moderately food insecure","Completed Secondary",1.5076716
+"22","Falaba","Morifindugu","","Severely food insecure","No School",0.2313086
+"23","Pujehun","Perri","No, working for fewer hours/days","Severely food insecure","No School",0.6914497
+"24","Bombali","Makari","","Marginally food secure","Some secondary",1.4298134
+"25","Western Area Urban","West II","","Food secure","Completed Secondary",4.4390705
+"26","Kailahun","Njaluahun","","Marginally food secure","No School",1.3062578
+"27","Moyamba","Upper Banta","","Marginally food secure","Vocational/Technical Institute",0.3548562
+"28","Western Area Rural","York Rural","","Marginally food secure","No School",4.5230785
+"29","Western Area Urban","West II","","Food secure","Completed Secondary",4.4390705
+"30","Falaba","Kebelia","","Moderately food insecure","No School",0.2545047
+"31","Tonkolili","Yoni Mabanta","","Moderately food insecure","No School",0.9002567
+"32","Pujehun","Sowa","","Moderately food insecure","Completed Primary",0.4252095
+"33","Western Area Urban","Central I","","Marginally food secure","No School",1.8276852
+"34","Bonthe","Imperri","","Moderately food insecure","No School",0.9957775
+"35","Koinadugu","Kalian","","Marginally food secure","Vocational/Technical Institute",0.4959283
+"36","Kono","Fiama","","Moderately food insecure","No School",0.4323924
+"37","Falaba","Kulor Saradu","","Marginally food secure","No School",0.2207506
+"38","Kailahun","Jawie","","Moderately food insecure","No School",1.3944928
+"39","Port Loko","Lokomasama","","Moderately food insecure","No School",1.4808823
+"40","Kenema","Dodo","No chronic illness","Severely food insecure","No School",0.5602864
+"41","Bonthe","Sittia","","Marginally food secure","No School",0.4738193
+"42","Koinadugu","Kamukeh","","Marginally food secure","College/University",0.2057309
+"43","Kailahun","Penguia","","Moderately food insecure","Completed Secondary",0.5967944
+"44","Moyamba","Dasse","","Marginally food secure","No School",0.4965263
+"45","Kono","Kamara","","Marginally food secure","No School",0.5097306
+"46","Kono","Gbane Kandor","No, working for fewer hours/days","Marginally food secure","No School",0.3112468
+"47","Moyamba","Kamajei","","Severely food insecure","No School",0.2839045
+"48","Falaba","Dembelia","","Marginally food secure","No School",0.2786251
+"49","Western Area Urban","West III","","Marginally food secure","Vocational/Technical Institute",6.173548
+"50","Moyamba","Bagruwa","","Severely food insecure","No School",0.8346273
+"51","Kailahun","Mandu","","Moderately food insecure","No School",0.8618948
+"52","Western Area Slum","Slum","","Marginally food secure","Some Primary",1.2575573
+"53","Falaba","Mongo","","Marginally food secure","Vocational/Technical Institute",0.3465667
+"54","Kenema","Nomo","","Severely food insecure","No School",0.1777201
+"55","Karene","Dibia","","Moderately food insecure","No School",0.4598979
+"56","Bombali","Biriwa","","Moderately food insecure","Some Primary",1.1840597
+"57","Koinadugu","Gbonkobon Kayaka","","Moderately food insecure","No School",0.1931609
+"58","Falaba","Nyedu","","Moderately food insecure","Some Primary",0.1004401
+"59","Moyamba","Kagboro","","Moderately food insecure","No School",1.1993893
+"60","Karene","Tambakha Simibungie","","Marginally food secure","College/University",0.2921028
+"61","Bombali","Makari","","Marginally food secure","Some secondary",1.4298134
+"62","Western Area Rural","Waterloo Rural","","Marginally food secure","College/University",7.6080752
+"63","Karene","Sanda Loko","","Severely food insecure","No School",1.2619816
+"64","Tonkolili","Kholifa Mamuntha/Mayosso","","Moderately food insecure","Completed Primary",0.4632227
+"65","Port Loko","Lokomasama","","Moderately food insecure","No School",1.4808823
+"66","Bombali","Gbendembu","","Marginally food secure","No School",0.7180535
+"67","Bo","Wonde","","Moderately food insecure","Some secondary",0.3490822
+"68","Koinadugu","Kalian","","Marginally food secure","No School",0.4959283
+"69","Tonkolili","Kunike Folawusu","","Food secure","College/University",0.6151168
+"70","Kenema","Nomo","","Moderately food insecure","No School",0.1777201
+"71","Falaba","Kulor Saradu","","Marginally food secure","College/University",0.2207506
+"72","Falaba","Neya","","Severely food insecure","No School",0.4365837
+"73","Pujehun","Makpele","","Marginally food secure","Completed Primary",0.8219445
+"74","Port Loko","Kamasondo","","Moderately food insecure","No School",0.9860628
+"75","Moyamba","Kori","Yes, the same number of hours /days","Marginally food secure","No School",0.8794012
+"76","Koinadugu","Sengbe","","Moderately food insecure","Some Primary",0.5581314
+"77","Bo","Bagbo","","Moderately food insecure","No School",0.8386451
+"78","Bombali","Kamaranka","","Moderately food insecure","College/University",0.3070851
+"79","Falaba","Wollay Barawa","","Moderately food insecure","No School",0.4146298
+"80","Bo","Bo Town","","Marginally food secure","Vocational/Technical Institute",4.9102714
+"81","Kambia","Muna Thalla","","Moderately food insecure","No School",0.3762014
+"82","Western Area Urban","West III","","Marginally food secure","No School",6.173548
+"83","Kono","Gbane Kandor","","Food secure","No School",0.3112468
+"84","Port Loko","Bureh","","Marginally food secure","College/University",0.4801609
+"85","Kono","Mafindor","","Marginally food secure","No School",0.3164851
+"86","Bo","Bo Town","","Moderately food insecure","College/University",4.9102714
+"87","Port Loko","Kaffu Bullom","","Moderately food insecure","College/University",3.2143547
+"88","Bombali","Gbanti-1","","Marginally food secure","No School",1.4493465
+"89","Bo","Kakua","","Marginally food secure","Some Primary",1.4390947
+"90","Kono","Nimiyama","","Moderately food insecure","Some Primary",0.8542261
+"91","Western Area Urban","West II","","Marginally food secure","Some Primary",4.4390705
+"92","Western Area Rural","Waterloo Rural","","Food secure","Completed Primary",7.6080752
+"93","Karene","Buya","","Moderately food insecure","No School",0.4128132
+"94","Bo","Bagbwe(Bagbe)","","Moderately food insecure","No School",0.5761842
+"95","Pujehun","Pejeh (Futa peje)","","Moderately food insecure","No School",0.290343
+"96","Western Area Rural","Waterloo Rural","","Food secure","No School",7.6080752
+"97","Kailahun","Kissi Tongi","","Moderately food insecure","No School",1.1434507
+"98","Western Area Urban","East II","Never worked","Marginally food secure","Some secondary",2.7733612
+"99","Falaba","Mongo","","Marginally food secure","College/University",0.3465667
+"100","Kono","Sandor","","Marginally food secure","No School",2.2790256
+"101","Tonkolili","Gbonkolenkeni/Masankong","","Moderately food insecure","No School",0.3955559
+"102","Bo","Badjia","No chronic illness","Food secure","No School",0.2586598
+"103","Kambia","Magbema","","Moderately food insecure","Some secondary",2.8153019
+"104","Falaba","Folosaba","","Severely food insecure","No School",0.2593644
+"105","Falaba","Morifindugu","","Severely food insecure","No School",0.2313086
+"106","Bonthe","Yawbeko","","Marginally food secure","Some Primary",0.1756389
+"107","Falaba","Morifindugu","","Moderately food insecure","No School",0.2313086
+"108","Bombali","Biriwa","","Moderately food insecure","No School",1.1840597
+"109","Pujehun","Galliness","","Moderately food insecure","Some Primary",0.4706213
+"110","Bombali","Gbanti-1","","Moderately food insecure","Completed Secondary",1.4493465
+"111","Moyamba","Ribbi","","Severely food insecure","Some Primary",1.0236714
+"112","Kailahun","Kissi Tongi","","Marginally food secure","No School",1.1434507
+"113","Koinadugu","Kasunko KaKellian","","Moderately food insecure","No School",0.3122807
+"114","Kailahun","Malema","","Marginally food secure","Some Primary",0.8009411
+"115","Bonthe","Yawbeko","","Marginally food secure","No School",0.1756389
+"116","Koinadugu","Wara Wara Bafodia","","Moderately food insecure","No School",0.4132673
+"117","Kailahun","Jawie","","Marginally food secure","Some Primary",1.3944928
+"118","Bo","Lugbu","","Moderately food insecure","Some Primary",0.9347872
+"119","Port Loko","Marampa","Yes, the same number of hours /days","Moderately food insecure","No School",1.6520808
+"120","Bonthe","Imperri","","Moderately food insecure","No School",0.9957775
+"121","Moyamba","Bumpeh","","Marginally food secure","Completed Secondary",1.2077506
+"122","Western Area Slum","Slum","","Marginally food secure","Some Primary",1.2575573
+"123","Bo","Badjia","","Marginally food secure","College/University",0.2586598
+"124","Western Area Urban","Central I","","Moderately food insecure","Some secondary",1.8276852
+"125","Falaba","Mongo","","Food secure","Completed Secondary",0.3465667
+"126","Kono","Sandor","","Moderately food insecure","No School",2.2790256
+"127","Falaba","Wollay Barawa","","Severely food insecure","College/University",0.4146298
+"128","Kono","Soa","","Moderately food insecure","No School",0.9956889
+"129","Koinadugu","Diang","","Moderately food insecure","No School",0.7864444
+"130","Bo","Badjia","","Moderately food insecure","Completed Primary",0.2586598
+"131","Kono","Kamara","","Moderately food insecure","Some secondary",0.5097306
+"132","Tonkolili","Yoni Mabanta","","Severely food insecure","No School",0.9002567
+"133","Kailahun","Upper Bambara","","Marginally food secure","College/University",0.9285215
+"134","Western Area Rural","Mountain Rural","","Food secure","Completed Primary",1.2564135
+"135","Moyamba","Fakunya","","Moderately food insecure","Some Primary",0.9662584
+"136","Kono","Sandor","","Moderately food insecure","No School",2.2790256
+"137","Kono","Sandor","","Moderately food insecure","College/University",2.2790256
+"138","Bo","Bagbo","","Moderately food insecure","No School",0.8386451
+"139","Kailahun","Yawei","","Moderately food insecure","Some secondary",0.6212634
+"140","Tonkolili","Simiria","","Moderately food insecure","No School",0.7139594
+"141","Karene","Safroko","","Moderately food insecure","No School",0.2952777
+"142","Kambia","Dixon","","Marginally food secure","No School",0.2510313
+"143","Karene","Romende","","Moderately food insecure","No School",0.7074619
+"144","Koinadugu","Gbonkobon Kayaka","","Moderately food insecure","No School",0.1931609
+"145","Western Area Urban","East II","","Marginally food secure","College/University",2.7733612
+"146","Port Loko","Bureh","","Moderately food insecure","Completed Primary",0.4801609
+"147","Kenema","Kandu Leppiama","","Marginally food secure","Completed Secondary",0.6050925
+"148","Kambia","Muna Thalla","","Marginally food secure","No School",0.3762014
+"149","Tonkolili","Poli","Yes, the same number of hours /days","Severely food insecure","No School",0.2398532
+"150","Tonkolili","Kholifa Mamuntha/Mayosso","","Marginally food secure","No School",0.4632227
+"151","Pujehun","Mono Sakrim","","Moderately food insecure","No School",0.2858671
+"152","Bo","Boama","","Marginally food secure","College/University",1.4582433
+"153","Moyamba","Fakunya","","Moderately food insecure","Some Primary",0.9662584
+"154","Kailahun","Yawei","","Moderately food insecure","No School",0.6212634
+"155","Kenema","Small Bo","","Moderately food insecure","Completed Primary",0.8906647
+"156","Bo","Niawa Lenga","","Moderately food insecure","College/University",0.4015236
+"157","Kono","Kamara","","Food secure","No School",0.5097306
+"158","Bo","Komboya","","Marginally food secure","Vocational/Technical Institute",0.423107
+"159","Koinadugu","Diang","","Moderately food insecure","No School",0.7864444
+"160","Kenema","Gaura","","Marginally food secure","College/University",0.6096904
+"161","Port Loko","Bureh","","Marginally food secure","No School",0.4801609
+"162","Kono","Nimiyama","","Moderately food insecure","No School",0.8542261
+"163","Bombali","Ngowahun","","Severely food insecure","No School",0.7104767
+"164","Bombali","Safroko Limba","","Moderately food insecure","No School",0.8913851
+"165","Koinadugu","Kamukeh","","Moderately food insecure","No School",0.2057309
+"166","Falaba","Delemandugu","","Moderately food insecure","No School",0.4536044
+"167","Bo","Komboya","","Moderately food insecure","Completed Secondary",0.423107
+"168","Pujehun","Perri","","Severely food insecure","Completed Primary",0.6914497
+"169","Western Area Urban","West II","","Marginally food secure","Completed Primary",4.4390705
+"170","Kailahun","Kissi Teng","","Moderately food insecure","Completed Primary",1.0208497
+"171","Port Loko","Kasseh","","Marginally food secure","Some Primary",0.4162949
+"172","Koinadugu","Wara Wara Yagala","","Marginally food secure","No School",0.9880005
+"173","Bo","Wonde","","Severely food insecure","Some Primary",0.3490822
+"174","Karene","Buya","","Marginally food secure","No School",0.4128132
+"175","Kambia","Muna Thalla","","Marginally food secure","Vocational/Technical Institute",0.3762014
+"176","Moyamba","Bagruwa","","Severely food insecure","No School",0.8346273
+"177","Western Area Slum","Slum","","Marginally food secure","Some secondary",1.2575573
+"178","Bo","Komboya","","Moderately food insecure","Completed Secondary",0.423107
+"179","Pujehun","Panga","","Marginally food secure","No School",1.3987109
+"180","Koinadugu","Wara Wara Yagala","","Food secure","College/University",0.9880005
+"181","Falaba","Sulima","","Moderately food insecure","No School",0.6566527
+"182","Tonkolili","Tane","","Moderately food insecure","No School",1.0216635
+"183","Moyamba","Timdale","","Moderately food insecure","No School",0.3483107
+"184","Kailahun","Malema","","Moderately food insecure","Completed Secondary",0.8009411
+"185","Kambia","Khonimaka","","Marginally food secure","No School",0.3392629
+"186","Tonkolili","Mayeppoh","","Moderately food insecure","No School",0.5692711
+"187","Kambia","Muna Thalla","","Marginally food secure","No School",0.3762014
+"188","Bo","Lugbu","","Marginally food secure","Some secondary",0.9347872
+"189","Pujehun","Malen","","Marginally food secure","Completed Secondary",1.0837293
+"190","Kambia","Khonimaka","","Moderately food insecure","No School",0.3392629
+"191","Kailahun","Yawei","","Marginally food secure","Some secondary",0.6212634
+"192","Kenema","Kenema City","","Marginally food secure","Completed Primary",6.0810676
+"193","Bonthe","Dema","","Marginally food secure","No School",0.2128079
+"194","Falaba","Mongo","","Moderately food insecure","No School",0.3465667
+"195","Western Area Urban","East I","","Marginally food secure","Some secondary",1.8580343
+"196","Western Area Rural","Mountain Rural","","Marginally food secure","No School",1.2564135
+"197","Kailahun","Penguia","","Moderately food insecure","No School",0.5967944
+"198","Kenema","Tunkia","","Marginally food secure","No School",0.9051959
+"199","Tonkolili","Tane","","Food secure","No School",1.0216635
+"200","Falaba","Wollay Barawa","","Severely food insecure","No School",0.4146298
+"201","Bo","Tikonko","","Severely food insecure","Completed Primary",1.6318566
+"202","Falaba","Dembelia-Sinkunia","","Moderately food insecure","No School",0.5086367
+"203","Tonkolili","Sambaya","","Marginally food secure","No School",0.7211742
+"204","Kambia","Gbinle","","Moderately food insecure","No School",0.4012426
+"205","Port Loko","Marampa","","Marginally food secure","No School",1.6520808
+"206","Koinadugu","Tamiso","","Moderately food insecure","No School",0.1697018
+"207","Kailahun","Yawei","","Marginally food secure","Some secondary",0.6212634
+"208","Koinadugu","Kasunko KaKellian","","Moderately food insecure","No School",0.3122807
+"209","Pujehun","Kabonde","No chronic illness","Moderately food insecure","Some secondary",0.1262468
+"210","Western Area Urban","West II","","Food secure","No School",4.4390705
+"211","Tonkolili","Simiria","","Marginally food secure","No School",0.7139594
+"212","Kenema","Dodo","","Food secure","Completed Secondary",0.5602864
+"213","Bombali","Ngowahun","","Severely food insecure","No School",0.7104767
+"214","Tonkolili","Yoni Mamaila","","Severely food insecure","No School",2.2445647
+"215","Koinadugu","Kamukeh","No, working for fewer hours/days","Marginally food secure","No School",0.2057309
+"216","Kono","Mafindor","","Moderately food insecure","No School",0.3164851
+"217","Bombali","Ngowahun","","Severely food insecure","Completed Secondary",0.7104767
+"218","Kailahun","Kissi Kama","","Moderately food insecure","No School",0.5201012
+"219","Karene","Sanda Magbolontor","","Marginally food secure","No School",0.5278306
+"220","Falaba","Morifindugu","","Moderately food insecure","No School",0.2313086
+"221","Bo","Kakua","","Marginally food secure","No School",1.4390947
+"222","Bo","Valunia","","Severely food insecure","No School",1.0621627
+"223","Kono","Koidu City","","Food secure","Vocational/Technical Institute",4.0313155
+"224","Port Loko","Maforki","","Marginally food secure","No School",1.534993
+"225","Kambia","Gbinle","","Moderately food insecure","No School",0.4012426
+"226","Karene","Sella Limba","","Moderately food insecure","No School",1.4316664
+"227","Port Loko","Bakeh Loko","","Marginally food secure","No School",1.7416955
+"228","Kono","Gbane Kandor","No, working for fewer hours/days","Marginally food secure","No School",0.3112468
+"229","Kono","Nimikoro","","Food secure","Some secondary",1.6391351
+"230","Karene","Tambakha Simibungie","","Moderately food insecure","No School",0.2921028
+"231","Western Area Rural","Koya Rural","","Marginally food secure","Completed Primary",2.3349477
+"232","Kono","Toli","","Moderately food insecure","No School",0.1024239
+"233","Bombali","Makari","","Moderately food insecure","No School",1.4298134
+"234","Kenema","Langrama","","Moderately food insecure","No School",0.127288
+"235","Koinadugu","Diang","","Moderately food insecure","No School",0.7864444
+"236","Karene","Safroko","","Moderately food insecure","Some Primary",0.2952777
+"237","Bo","Komboya","","Marginally food secure","Completed Secondary",0.423107
+"238","Falaba","Morifindugu","","Moderately food insecure","College/University",0.2313086
+"239","Moyamba","Ribbi","","Severely food insecure","Some Primary",1.0236714
+"240","Kenema","Malegohun","","Moderately food insecure","No School",0.5618608
+"241","Kenema","Nongowa","","Food secure","No School",1.4913091
+"242","Kailahun","Dea","","Moderately food insecure","College/University",0.3985007
+"243","Bonthe","Nongoba Bullom","","Moderately food insecure","Some Primary",0.571308
+"244","Bombali","Paki Masabong","","Moderately food insecure","No School",0.7699547
+"245","Bo","Tikonko","","Food secure","No School",1.6318566
+"246","Port Loko","Masimera","","Marginally food secure","Some Primary",1.427643
+"247","Kenema","Nongowa","","Marginally food secure","Vocational/Technical Institute",1.4913091
+"248","Port Loko","Kamasondo","","Moderately food insecure","Vocational/Technical Institute",0.9860628
+"249","Moyamba","Kowa","","Moderately food insecure","No School",0.3642655
+"250","Kambia","Tonko Limba","","Food secure","No School",1.3581587
+"251","Falaba","Delemandugu","","Moderately food insecure","No School",0.4536044
+"252","Pujehun","Perri","No, working for fewer hours/days","Severely food insecure","Some secondary",0.6914497
+"253","Kambia","Dixon","","Marginally food secure","No School",0.2510313
+"254","Bonthe","Yawbeko","","Severely food insecure","Vocational/Technical Institute",0.1756389
+"255","Western Area Urban","East II","","Moderately food insecure","Completed Primary",2.7733612
+"256","Kenema","Niawa","","Marginally food secure","No School",0.2315632
+"257","Western Area Urban","Central II","","Moderately food insecure","Some secondary",0.7089255
+"258","Tonkolili","Tane","Yes, the same number of hours /days","Moderately food insecure","No School",1.0216635
+"259","Bo","Bagbwe(Bagbe)","No chronic illness","Marginally food secure","Some secondary",0.5761842
+"260","Bombali","Safroko Limba","","Moderately food insecure","Completed Secondary",0.8913851
+"261","Kono","Lei","","Marginally food secure","Some secondary",0.5909324
+"262","Koinadugu","Tamiso","","Moderately food insecure","No School",0.1697018
+"263","Western Area Urban","West III","","Marginally food secure","Some Primary",6.173548
+"264","Bombali","Ngowahun","","Severely food insecure","Completed Secondary",0.7104767
+"265","Kailahun","Jahn","","Moderately food insecure","No School",0.1944345
+"266","Moyamba","Fakunya","","Severely food insecure","No School",0.9662584
+"267","Kenema","Gorama Mende","","Moderately food insecure","Some secondary",1.2001405
+"268","Kailahun","Kpeje Bongre","","Severely food insecure","Some Primary",0.6549239
+"269","Kambia","Bramaia","","Moderately food insecure","No School",0.51476
+"270","Kono","Nimiyama","","Marginally food secure","Vocational/Technical Institute",0.8542261
+"271","Kono","Nimikoro","","Moderately food insecure","College/University",1.6391351
+"272","Western Area Urban","East III","No, working for fewer hours/days","Marginally food secure","No School",13.175466
+"273","Tonkolili","Simiria","","Moderately food insecure","No School",0.7139594
+"274","Bonthe","Nongoba Bullom","","Marginally food secure","Some Primary",0.571308
+"275","Koinadugu","Wara Wara Bafodia","","Moderately food insecure","Some secondary",0.4132673
+"276","Falaba","Kamadu Yiraia","","Food secure","No School",0.2914018
+"277","Tonkolili","Yoni Mabanta","","Marginally food secure","No School",0.9002567
+"278","Port Loko","Bureh","","Marginally food secure","College/University",0.4801609
+"279","Pujehun","Malen","","Severely food insecure","Some secondary",1.0837293
+"280","Kenema","Dama","","Severely food insecure","No School",0.9802876
+"281","Kenema","Koya-1","","Moderately food insecure","Some Primary",0.4694293
+"282","Western Area Rural","York Rural","","Marginally food secure","Completed Secondary",4.5230785
+"283","Kambia","Mambolo","","Marginally food secure","No School",1.0250424
+"284","Kono","Mafindor","","Marginally food secure","No School",0.3164851
+"285","Western Area Slum","Slum","","Moderately food insecure","No School",1.2575573
+"286","Pujehun","Malen","","Moderately food insecure","No School",1.0837293
+"287","Moyamba","Kagboro","","Moderately food insecure","No School",1.1993893
+"288","Port Loko","Masimera","","Marginally food secure","No School",1.427643
+"289","Kenema","Gorama Mende","","Moderately food insecure","No School",1.2001405
+"290","Kenema","Lower Bambara","","Moderately food insecure","Completed Primary",2.3582384
+"291","Karene","Buya","","Marginally food secure","No School",0.4128132
+"292","Kenema","Wandor","She/He is completely unable to work","Marginally food secure","Some Primary",0.557397
+"293","Western Area Urban","West I","","Food secure","No School",1.6877405
+"294","Moyamba","Bumpeh","","Marginally food secure","Completed Primary",1.2077506
+"295","Bombali","Gbanti-1","","Moderately food insecure","No School",1.4493465
+"296","Bo","Gbo","","Food secure","No School",0.1992564
+"297","Tonkolili","Kalanthuba","","Marginally food secure","No School",0.2903288
+"298","Kenema","Gorama Mende","","Moderately food insecure","No School",1.2001405
+"299","Port Loko","Kaffu Bullom","","Moderately food insecure","Some Primary",3.2143547
+"300","Bo","Jaiama","","Marginally food secure","Some Primary",0.4800562
+"301","Bo","Boama","No chronic illness","Severely food insecure","No School",1.4582433
+"302","Koinadugu","Sengbe","","Food secure","No School",0.5581314
+"303","Falaba","Neya","","Moderately food insecure","No School",0.4365837
+"304","Falaba","Morifindugu","","Moderately food insecure","College/University",0.2313086
+"305","Kono","Sandor","","Marginally food secure","No School",2.2790256
+"306","Koinadugu","Kalian","","Moderately food insecure","No School",0.4959283
+"307","Bo","Wonde","","Moderately food insecure","Some secondary",0.3490822
+"308","Kono","Koidu City","","Moderately food insecure","College/University",4.0313155
+"309","Bonthe","Sogbeni","","Moderately food insecure","No School",0.2551938
+"310","Karene","Dibia","","Moderately food insecure","No School",0.4598979
+"311","Port Loko","Masimera","","Moderately food insecure","No School",1.427643
+"312","Tonkolili","Sambaya","","Severely food insecure","No School",0.7211742
+"313","Port Loko","Kasseh","","Moderately food insecure","No School",0.4162949
+"314","Port Loko","Kasseh","","Moderately food insecure","Vocational/Technical Institute",0.4162949
+"315","Kono","Lei","","Marginally food secure","No School",0.5909324
+"316","Pujehun","Barri","","Moderately food insecure","No School",0.9472675
+"317","Bombali","Bombali Siari","","Marginally food secure","No School",0.2292491
+"318","Tonkolili","Kalanthuba","","Severely food insecure","No School",0.2903288
+"319","Koinadugu","Wara Wara Bafodia","","Moderately food insecure","No School",0.4132673
+"320","Kailahun","Dea","She/He is completely unable to work","Moderately food insecure","No School",0.3985007
+"321","Bonthe","Kpanda Kemo","","Moderately food insecure","No School",0.2608277
+"322","Bo","Valunia","","Severely food insecure","No School",1.0621627
+"323","Western Area Urban","Central I","","Food secure","Completed Secondary",1.8276852
+"324","Port Loko","Marampa","","Marginally food secure","No School",1.6520808
+"325","Kenema","Wandor","","Marginally food secure","No School",0.557397
+"326","Kailahun","Luawa","","Moderately food insecure","No School",2.6739158
+"327","Koinadugu","Diang","","Marginally food secure","No School",0.7864444
+"328","Bonthe","Sogbeni","","Severely food insecure","No School",0.2551938
+"329","Bonthe","Sogbeni","","Moderately food insecure","No School",0.2551938
+"330","Bo","Selenga","Yes, the same number of hours /days","Moderately food insecure","No School",0.178588
+"331","Karene","Mafonda Makerembay","","Moderately food insecure","No School",0.1251912
+"332","Western Area Urban","East I","","Marginally food secure","Completed Primary",1.8580343
+"333","Kono","Tankoro","","Severely food insecure","Some secondary",0.2426621
+"334","Tonkolili","Kunike Sanda","","Marginally food secure","Some Primary",1.3386532
+"335","Kambia","Khonimaka","","Moderately food insecure","No School",0.3392629
+"336","Falaba","Dembelia","","Marginally food secure","Some secondary",0.2786251
+"337","Kenema","Nomo","","Severely food insecure","No School",0.1777201
+"338","Kenema","Niawa","","Marginally food secure","No School",0.2315632
+"339","Bo","Boama","","Marginally food secure","Some Primary",1.4582433
+"340","Bonthe","Kpanda Kemo","","Marginally food secure","Some secondary",0.2608277
+"341","Bo","Komboya","","Moderately food insecure","Completed Secondary",0.423107
+"342","Port Loko","Kaffu Bullom","","Severely food insecure","Vocational/Technical Institute",3.2143547
+"343","Kono","Tankoro","","Moderately food insecure","No School",0.2426621
+"344","Kenema","Kenema City","","Severely food insecure","Completed Primary",6.0810676
+"345","Falaba","Mongo","","Moderately food insecure","No School",0.3465667
+"346","Kailahun","Kissi Tongi","","Marginally food secure","No School",1.1434507
+"347","Bo","Bongor","","Moderately food insecure","Completed Primary",0.4196253
+"348","Bombali","Makari","","Moderately food insecure","No School",1.4298134
+"349","Bonthe","Nongoba Bullom","","Severely food insecure","No School",0.571308
+"350","Kenema","Small Bo","","Moderately food insecure","No School",0.8906647
+"351","Falaba","Folosaba","","Food secure","College/University",0.2593644
+"352","Bo","Wonde","","Moderately food insecure","Some secondary",0.3490822
+"353","Kono","Fiama","","Moderately food insecure","No School",0.4323924
+"354","Moyamba","Bagruwa","","Severely food insecure","No School",0.8346273
+"355","Karene","Dibia","","Moderately food insecure","No School",0.4598979
+"356","Port Loko","Kaffu Bullom","","Moderately food insecure","No School",3.2143547
+"357","Kailahun","Kissi Tongi","","Moderately food insecure","No School",1.1434507
+"358","Bombali","Bombali Sebora","","Moderately food insecure","No School",1.0406648
+"359","Kambia","Masungbala","","Marginally food secure","No School",0.4703749
+"360","Kono","Gbane Kandor","No, working for fewer hours/days","Moderately food insecure","No School",0.3112468
+"361","Moyamba","Bagruwa","","Moderately food insecure","College/University",0.8346273
+"362","Kailahun","Dea","","Moderately food insecure","Some secondary",0.3985007
+"363","Kailahun","Upper Bambara","","Marginally food secure","Some secondary",0.9285215
+"364","Moyamba","Kagboro","","Marginally food secure","No School",1.1993893
+"365","Kenema","Langrama","","Severely food insecure","No School",0.127288
+"366","Falaba","Neya","","Severely food insecure","No School",0.4365837
+"367","Kailahun","Kpeje Bongre","","Marginally food secure","No School",0.6549239
+"368","Tonkolili","Yoni Mamaila","","Moderately food insecure","Completed Secondary",2.2445647
+"369","Tonkolili","Mayeppoh","","Moderately food insecure","No School",0.5692711
+"370","Port Loko","Marampa","Yes, the same number of hours /days","Moderately food insecure","College/University",1.6520808
+"371","Kambia","Masungbala","","Marginally food secure","No School",0.4703749
+"372","Moyamba","Kori","","Marginally food secure","Completed Secondary",0.8794012
+"373","Falaba","Dembelia-Sinkunia","","Moderately food insecure","No School",0.5086367
+"374","Kambia","Gbinle","","Moderately food insecure","Some Primary",0.4012426
+"375","Port Loko","Thainkatopa","","Moderately food insecure","Completed Primary",0.2597262
+"376","Moyamba","Bumpeh","","Moderately food insecure","Completed Secondary",1.2077506
+"377","Western Area Slum","Slum","","Food secure","Completed Secondary",1.2575573
+"378","Kambia","Muna Thalla","","Marginally food secure","No School",0.3762014
+"379","Bonthe","Dema","","Moderately food insecure","Completed Primary",0.2128079
+"380","Bo","Badjia","She/He is completely unable to work","Marginally food secure","No School",0.2586598
+"381","Karene","Sanda Magbolontor","","Food secure","No School",0.5278306
+"382","Falaba","Kamadu Yiraia","","Severely food insecure","No School",0.2914018
+"383","Falaba","Neya","","Moderately food insecure","Completed Primary",0.4365837
+"384","Bo","Bagbo","","Moderately food insecure","No School",0.8386451
+"385","Kailahun","Mandu","Yes, the same number of hours /days","Marginally food secure","College/University",0.8618948
+"386","Bo","Wonde","","Marginally food secure","Completed Secondary",0.3490822
+"387","Kailahun","Yawei","","Marginally food secure","Some secondary",0.6212634
+"388","Tonkolili","Kalanthuba","","Marginally food secure","No School",0.2903288
+"389","Kambia","Gbinle","","Marginally food secure","No School",0.4012426
+"390","Western Area Rural","Koya Rural","","Moderately food insecure","Completed Primary",2.3349477
+"391","Falaba","Kamadu Yiraia","","Food secure","No School",0.2914018
+"392","Falaba","Dembelia-Sinkunia","","Food secure","No School",0.5086367
+"393","Kono","Nimiyama","","Moderately food insecure","No School",0.8542261
+"394","Kenema","Koya-1","","Moderately food insecure","Completed Primary",0.4694293
+"395","Tonkolili","Sambaya","","Moderately food insecure","No School",0.7211742
+"396","Bombali","Mara","","Marginally food secure","Completed Primary",0.4465518
+"397","Western Area Urban","West I","","Marginally food secure","Some secondary",1.6877405
+"398","Port Loko","Maconteh","","Moderately food insecure","No School",0.2580322
+"399","Koinadugu","Diang","","Marginally food secure","No School",0.7864444
+"400","Bo","Valunia","","Moderately food insecure","No School",1.0621627
+"401","Tonkolili","Yoni Mabanta","Yes, the same number of hours /days","Moderately food insecure","No School",0.9002567
+"402","Pujehun","Yakemu Kpukumu","","Moderately food insecure","No School",0.2721455
+"403","Port Loko","Masimera","","Marginally food secure","No School",1.427643
+"404","Bo","Wonde","","Severely food insecure","No School",0.3490822
+"405","Tonkolili","Yele","","Marginally food secure","No School",0.6876807
+"406","Kenema","Gorama Mende","She/He is completely unable to work","Marginally food secure","No School",1.2001405
+"407","Bo","Gbo","","Severely food insecure","Completed Primary",0.1992564
+"408","Moyamba","Lower Banta","","Marginally food secure","Some secondary",1.318918
+"409","Kenema","Tunkia","","Marginally food secure","No School",0.9051959
+"410","Koinadugu","Kalian","","Marginally food secure","No School",0.4959283
+"411","Kailahun","Malema","","Marginally food secure","No School",0.8009411
+"412","Bombali","Gbendembu","","Moderately food insecure","Completed Secondary",0.7180535
+"413","Karene","Safroko","She/He is completely unable to work","Moderately food insecure","No School",0.2952777
+"414","Pujehun","Panga","","Moderately food insecure","No School",1.3987109
+"415","Kono","Nimikoro","","Moderately food insecure","Some secondary",1.6391351
+"416","Pujehun","Kabonde","","Marginally food secure","Some Primary",0.1262468
+"417","Kenema","Kenema City","","Marginally food secure","Some secondary",6.0810676
+"418","Bo","Kakua","","Food secure","College/University",1.4390947
+"419","Falaba","Folosaba","","Moderately food insecure","No School",0.2593644
+"420","Kono","Sandor","","Moderately food insecure","No School",2.2790256
+"421","Bonthe","Dema","","Moderately food insecure","No School",0.2128079
+"422","Moyamba","Lower Banta","","Moderately food insecure","Some Primary",1.318918
+"423","Tonkolili","Kholifa Rowala","","Moderately food insecure","College/University",1.5076716
+"424","Pujehun","Pejeh (Futa peje)","","Marginally food secure","No School",0.290343
+"425","Falaba","Wollay Barawa","","Severely food insecure","No School",0.4146298
+"426","Koinadugu","Kamukeh","","Marginally food secure","No School",0.2057309
+"427","Bonthe","Bendu-Cha","","Moderately food insecure","No School",0.1881044
+"428","Moyamba","Kowa","","Marginally food secure","College/University",0.3642655
+"429","Port Loko","Makama","","Marginally food secure","No School",0.2828188
+"430","Bonthe","Bonthe Urban","","Moderately food insecure","Vocational/Technical Institute",0.1954212
+"431","Kambia","Gbinle","","Moderately food insecure","No School",0.4012426
+"432","Bo","Badjia","","Severely food insecure","No School",0.2586598
+"433","Koinadugu","Kamukeh","","Moderately food insecure","No School",0.2057309
+"434","Kenema","Koya-1","","Severely food insecure","No School",0.4694293
+"435","Kailahun","Kpeje Bongre","","Moderately food insecure","No School",0.6549239
+"436","Bo","Badjia","No chronic illness","Severely food insecure","No School",0.2586598
+"437","Moyamba","Kowa","","Moderately food insecure","No School",0.3642655
+"438","Moyamba","Upper Banta","","Marginally food secure","Some secondary",0.3548562
+"439","Pujehun","Panga","","Moderately food insecure","No School",1.3987109
+"440","Bo","Selenga","Yes, the same number of hours /days","Marginally food secure","No School",0.178588
+"441","Kailahun","Upper Bambara","","Marginally food secure","No School",0.9285215
+"442","Bombali","Paki Masabong","","Moderately food insecure","No School",0.7699547
+"443","Kailahun","Luawa","","Marginally food secure","Some secondary",2.6739158
+"444","Bo","Bo Town","","Food secure","Completed Secondary",4.9102714
+"445","Pujehun","Barri","No chronic illness","Moderately food insecure","No School",0.9472675
+"446","Moyamba","Kagboro","No chronic illness","Marginally food secure","College/University",1.1993893
+"447","Koinadugu","Kalian","","Moderately food insecure","No School",0.4959283
+"448","Bombali","Ngowahun","","Marginally food secure","No School",0.7104767
+"449","Kailahun","Kissi Kama","","Moderately food insecure","No School",0.5201012
+"450","Pujehun","Panga","","Food secure","No School",1.3987109
+"451","Bombali","Kamaranka","","Moderately food insecure","No School",0.3070851
+"452","Kailahun","Jahn","","Marginally food secure","No School",0.1944345
+"453","Western Area Urban","West III","","Food secure","College/University",6.173548
+"454","Moyamba","Bumpeh","","Moderately food insecure","No School",1.2077506
+"455","Falaba","Kamadu Yiraia","","Food secure","No School",0.2914018
+"456","Bo","Bagbwe(Bagbe)","","Marginally food secure","No School",0.5761842
+"457","Karene","Sella Limba","","Moderately food insecure","Completed Secondary",1.4316664
+"458","Kailahun","Kissi Kama","","Moderately food insecure","Some secondary",0.5201012
+"459","Port Loko","Marampa","","Marginally food secure","No School",1.6520808
+"460","Kambia","Tonko Limba","","Moderately food insecure","No School",1.3581587
+"461","Port Loko","Lokomasama","","Moderately food insecure","No School",1.4808823
+"462","Kono","Gorama Kono","","Marginally food secure","Some secondary",0.3917451
+"463","Tonkolili","Malal","","Severely food insecure","Some secondary",0.3583304
+"464","Tonkolili","Poli","","Moderately food insecure","No School",0.2398532
+"465","Kailahun","Kissi Kama","","Moderately food insecure","Completed Primary",0.5201012
+"466","Bonthe","Bendu-Cha","","Moderately food insecure","Some Primary",0.1881044
+"467","Kailahun","Kissi Tongi","","Marginally food secure","Some secondary",1.1434507
+"468","Moyamba","Kagboro","","Moderately food insecure","Some secondary",1.1993893
+"469","Kailahun","Jawie","","Moderately food insecure","No School",1.3944928
+"470","Kenema","Lower Bambara","","Moderately food insecure","No School",2.3582384
+"471","Bombali","Bombali Siari","","Food secure","Some Primary",0.2292491
+"472","Moyamba","Upper Banta","","Moderately food insecure","Some secondary",0.3548562
+"473","Karene","Sanda Magbolontor","","Moderately food insecure","No School",0.5278306
+"474","Kambia","Magbema","","Marginally food secure","No School",2.8153019
+"475","Kenema","Dama","","Severely food insecure","Some secondary",0.9802876
+"476","Falaba","Kebelia","","Moderately food insecure","No School",0.2545047
+"477","Pujehun","Barri","","Food secure","No School",0.9472675
+"478","Bombali","Ngowahun","","Severely food insecure","No School",0.7104767
+"479","Falaba","Morifindugu","","Severely food insecure","College/University",0.2313086
+"480","Tonkolili","Malal","","Moderately food insecure","Some Primary",0.3583304
+"481","Falaba","Mongo","","Moderately food insecure","Vocational/Technical Institute",0.3465667
+"482","Tonkolili","Kunike Sanda","","Marginally food secure","No School",1.3386532
+"483","Falaba","Sulima","","Marginally food secure","No School",0.6566527
+"484","Kailahun","Kissi Kama","","Moderately food insecure","No School",0.5201012
+"485","Pujehun","Sowa","","Moderately food insecure","Completed Secondary",0.4252095
+"486","Kambia","Gbinle","","Moderately food insecure","No School",0.4012426
+"487","Bombali","Kamaranka","No, working for fewer hours/days","Moderately food insecure","No School",0.3070851
+"488","Tonkolili","Gbonkolenkeni/Masankong","","Moderately food insecure","Vocational/Technical Institute",0.3955559
+"489","Western Area Urban","East II","","Moderately food insecure","No School",2.7733612
+"490","Moyamba","Bagruwa","","Moderately food insecure","Some secondary",0.8346273
+"491","Moyamba","Fakunya","","Marginally food secure","No School",0.9662584
+"492","Tonkolili","Malal","No, working for fewer hours/days","Marginally food secure","No School",0.3583304
+"493","Kenema","Kandu Leppiama","No, working for fewer hours/days","Severely food insecure","Some Primary",0.6050925
+"494","Karene","Tambakha Yobangie","","Marginally food secure","No School",0.5569147
+"495","Pujehun","Panga krim","","Food secure","No School",0.2235191
+"496","Pujehun","Soro Gbema","","Marginally food secure","Completed Primary",1.1294005
+"497","Bonthe","Kwamebai Krim","","Severely food insecure","Some Primary",0.2944341
+"498","Moyamba","Ribbi","","Severely food insecure","Completed Primary",1.0236714
+"499","Pujehun","Makpele","","Moderately food insecure","No School",0.8219445
+"500","Karene","Sanda Tendaran","","Marginally food secure","No School",0.9145132
+"501","Pujehun","Soro Gbema","","Marginally food secure","Some Primary",1.1294005
+"502","Western Area Urban","Central II","","Marginally food secure","Completed Secondary",0.7089255
+"503","Pujehun","Barri","","Moderately food insecure","No School",0.9472675
+"504","Pujehun","Galliness","","Moderately food insecure","No School",0.4706213
+"505","Tonkolili","Gbonkolenkeni/Masankong","","Moderately food insecure","College/University",0.3955559
+"506","Pujehun","Malen","","Moderately food insecure","College/University",1.0837293
+"507","Port Loko","Bureh","","Marginally food secure","Completed Secondary",0.4801609
+"508","Falaba","Kamadu Yiraia","","Marginally food secure","No School",0.2914018
+"509","Kenema","Small Bo","","Marginally food secure","Some secondary",0.8906647
+"510","Bonthe","Bum","","Moderately food insecure","No School",0.7500878
+"511","Bo","Tikonko","","Severely food insecure","No School",1.6318566
+"512","Tonkolili","Kholifa Mamuntha/Mayosso","","Moderately food insecure","Completed Secondary",0.4632227
+"513","Falaba","Kamadu Yiraia","","Marginally food secure","No School",0.2914018
+"514","Bo","Jaiama","","Moderately food insecure","No School",0.4800562
+"515","Pujehun","Malen","","Marginally food secure","No School",1.0837293
+"516","Port Loko","Maforki","","Marginally food secure","No School",1.534993
+"517","Pujehun","Barri","","Moderately food insecure","Completed Primary",0.9472675
+"518","Bonthe","Nongoba Bullom","","Moderately food insecure","No School",0.571308
+"519","Pujehun","Makpele","","Food secure","No School",0.8219445
+"520","Kailahun","Kissi Tongi","","Moderately food insecure","Completed Secondary",1.1434507
+"521","Tonkolili","Poli","","Moderately food insecure","Some secondary",0.2398532
+"522","Kenema","Gaura","","Moderately food insecure","No School",0.6096904
+"523","Bo","Jaiama","","Severely food insecure","Some Primary",0.4800562
+"524","Bombali","Makeni City","","Marginally food secure","Some Primary",4.2129654
+"525","Moyamba","Bumpeh","","Moderately food insecure","No School",1.2077506
+"526","Moyamba","Kongbora","","Marginally food secure","Completed Secondary",0.3545449
+"527","Pujehun","Mono Sakrim","","Marginally food secure","College/University",0.2858671
+"528","Kono","Gbense","","Marginally food secure","No School",0.4660951
+"529","Moyamba","Kongbora","","Marginally food secure","No School",0.3545449
+"530","Koinadugu","Nieni","","Marginally food secure","No School",0.6801502
+"531","Western Area Rural","Waterloo Rural","","Food secure","College/University",7.6080752
+"532","Bonthe","Kwamebai Krim","","Severely food insecure","No School",0.2944341
+"533","Moyamba","Fakunya","","Marginally food secure","No School",0.9662584
+"534","Kailahun","Kissi Tongi","","Moderately food insecure","No School",1.1434507
+"535","Moyamba","Upper Banta","","Marginally food secure","Completed Primary",0.3548562
+"536","Falaba","Morifindugu","","Moderately food insecure","No School",0.2313086
+"537","Bombali","Safroko Limba","","Moderately food insecure","No School",0.8913851
+"538","Kailahun","Yawei","","Moderately food insecure","Some secondary",0.6212634
+"539","Kono","Gbense","","Moderately food insecure","No School",0.4660951
+"540","Western Area Rural","York Rural","","Marginally food secure","Completed Secondary",4.5230785
+"541","Bonthe","Imperri","","Marginally food secure","Completed Primary",0.9957775
+"542","Karene","Tambakha Simibungie","","Marginally food secure","College/University",0.2921028
+"543","Kenema","Kenema City","","Marginally food secure","Some Primary",6.0810676
+"544","Kenema","Small Bo","","Moderately food insecure","No School",0.8906647
+"545","Karene","Dibia","","Moderately food insecure","College/University",0.4598979
+"546","Kambia","Muna Thalla","","Moderately food insecure","Some Primary",0.3762014
+"547","Western Area Slum","Slum","","Marginally food secure","No School",1.2575573
+"548","Bonthe","Dema","","Severely food insecure","No School",0.2128079
+"549","Kono","Lei","","Moderately food insecure","No School",0.5909324
+"550","Kailahun","Njaluahun","","Moderately food insecure","Some Primary",1.3062578
+"551","Koinadugu","Nieni","","Moderately food insecure","No School",0.6801502
+"552","Bonthe","Bonthe Urban","","Marginally food secure","No School",0.1954212
+"553","Bo","Bongor","","Moderately food insecure","Some Primary",0.4196253
+"554","Western Area Slum","Slum","","Moderately food insecure","No School",1.2575573
+"555","Bo","Tikonko","","Moderately food insecure","No School",1.6318566
+"556","Pujehun","Malen","","Moderately food insecure","Some secondary",1.0837293
+"557","Bo","Kakua","","Marginally food secure","Some Primary",1.4390947
+"558","Koinadugu","Kalian","","Food secure","Some secondary",0.4959283
+"559","Bombali","Bombali Sebora","","Moderately food insecure","College/University",1.0406648
+"560","Kono","Nimikoro","","Food secure","Some secondary",1.6391351
+"561","Koinadugu","Wara Wara Yagala","","Marginally food secure","Completed Secondary",0.9880005
+"562","Kailahun","Jawie","","Marginally food secure","No School",1.3944928
+"563","Kambia","Mambolo","","Moderately food insecure","No School",1.0250424
+"564","Kono","Nimiyama","","Marginally food secure","Some Primary",0.8542261
+"565","Pujehun","Yakemu Kpukumu","","Moderately food insecure","College/University",0.2721455
+"566","Western Area Urban","West III","","Marginally food secure","Completed Secondary",6.173548
+"567","Bonthe","Bendu-Cha","Yes, the same number of hours /days","Moderately food insecure","No School",0.1881044
+"568","Karene","Sanda Loko","","Moderately food insecure","Some Primary",1.2619816
+"569","Bo","Bagbwe(Bagbe)","","Marginally food secure","No School",0.5761842
+"570","Port Loko","Bakeh Loko","","Marginally food secure","No School",1.7416955
+"571","Bo","Selenga","Yes, the same number of hours /days","Moderately food insecure","Some Primary",0.178588
+"572","Moyamba","Ribbi","","Moderately food insecure","No School",1.0236714
+"573","Western Area Slum","Slum","","Marginally food secure","No School",1.2575573
+"574","Kambia","Samu","","Food secure","No School",1.544231
+"575","Tonkolili","Tane","","Marginally food secure","No School",1.0216635
+"576","Bo","Badjia","No chronic illness","Severely food insecure","No School",0.2586598
+"577","Falaba","Morifindugu","","Moderately food insecure","No School",0.2313086
+"578","Karene","Buya","","Moderately food insecure","No School",0.4128132
+"579","Karene","Tambakha Simibungie","","Moderately food insecure","No School",0.2921028
+"580","Falaba","Neya","","Marginally food secure","No School",0.4365837
+"581","Bo","Bagbwe(Bagbe)","No chronic illness","Marginally food secure","Completed Secondary",0.5761842
+"582","Bonthe","Jong","","Severely food insecure","Some secondary",1.0066476
+"583","Kono","Sandor","","Moderately food insecure","No School",2.2790256
+"584","Kailahun","Kissi Tongi","","Marginally food secure","No School",1.1434507
+"585","Pujehun","Galliness","","Marginally food secure","No School",0.4706213
+"586","Koinadugu","Sengbe","","Moderately food insecure","Vocational/Technical Institute",0.5581314
+"587","Karene","Sanda Magbolontor","","Marginally food secure","No School",0.5278306
+"588","Karene","Libeisaygahun/Gbombahun","","Marginally food secure","No School",0.3396967
+"589","Koinadugu","Kasunko KaKellian","","Moderately food insecure","No School",0.3122807
+"590","Pujehun","Panga krim","","Moderately food insecure","College/University",0.2235191
+"591","Koinadugu","Sengbe","","Moderately food insecure","No School",0.5581314
+"592","Kenema","Koya-1","","Food secure","College/University",0.4694293
+"593","Tonkolili","Simiria","","Severely food insecure","No School",0.7139594
+"594","Pujehun","Barri","","Severely food insecure","No School",0.9472675
+"595","Tonkolili","Simiria","","Marginally food secure","No School",0.7139594
+"596","Kambia","Muna Thalla","","Moderately food insecure","No School",0.3762014
+"597","Kono","Gorama Kono","","Marginally food secure","Completed Secondary",0.3917451
+"598","Falaba","Kulor Saradu","","Moderately food insecure","Completed Secondary",0.2207506
+"599","Kenema","Niawa","","Marginally food secure","Completed Secondary",0.2315632
+"600","Pujehun","Soro Gbema","","Severely food insecure","No School",1.1294005
+"601","Kailahun","Mandu","","Moderately food insecure","No School",0.8618948
+"602","Koinadugu","Kasunko KaKellian","","Moderately food insecure","No School",0.3122807
+"603","Tonkolili","Yoni Mamaila","","Moderately food insecure","Some secondary",2.2445647
+"604","Karene","Gbanti-2","","Severely food insecure","No School",1.4493465
+"605","Kambia","Masungbala","","Marginally food secure","No School",0.4703749
+"606","Karene","Libeisaygahun/Gbombahun","","Severely food insecure","Some secondary",0.3396967
+"607","Kenema","Gorama Mende","","Moderately food insecure","No School",1.2001405
+"608","Koinadugu","Nieni","","Moderately food insecure","No School",0.6801502
+"609","Western Area Slum","Slum","","Food secure","Some secondary",1.2575573
+"610","Bonthe","Bum","","Marginally food secure","Some Primary",0.7500878
+"611","Karene","Gbanti-2","","Severely food insecure","No School",1.4493465
+"612","Moyamba","Fakunya","","Marginally food secure","No School",0.9662584
+"613","Tonkolili","Simiria","","Moderately food insecure","No School",0.7139594
+"614","Bo","Bagbo","","Marginally food secure","No School",0.8386451
+"615","Kono","Kamara","","Moderately food insecure","Completed Primary",0.5097306
+"616","Port Loko","Marampa","","Marginally food secure","No School",1.6520808
+"617","Karene","Sella Limba","","Marginally food secure","Some Primary",1.4316664
+"618","Tonkolili","Mayeppoh","","Moderately food insecure","No School",0.5692711
+"619","Kailahun","Dea","","Moderately food insecure","College/University",0.3985007
+"620","Kono","Mafindor","","Moderately food insecure","Some secondary",0.3164851
+"621","Pujehun","Yakemu Kpukumu","","Marginally food secure","No School",0.2721455
+"622","Kambia","Khonimaka","","Severely food insecure","No School",0.3392629
+"623","Tonkolili","Gbonkolenkeni/Masankong","","Severely food insecure","No School",0.3955559
+"624","Western Area Urban","East III","","Moderately food insecure","Completed Primary",13.175466
+"625","Bo","Bo Town","","Marginally food secure","Some secondary",4.9102714
+"626","Falaba","Dembelia","","Moderately food insecure","College/University",0.2786251
+"627","Kenema","Gaura","","Severely food insecure","No School",0.6096904
+"628","Kenema","Nongowa","","Food secure","No School",1.4913091
+"629","Kambia","Tonko Limba","","Marginally food secure","Completed Primary",1.3581587
+"630","Kailahun","Njaluahun","","Moderately food insecure","Some secondary",1.3062578
+"631","Tonkolili","Yoni Mamaila","","Moderately food insecure","Completed Secondary",2.2445647
+"632","Tonkolili","Malal","No, working for fewer hours/days","Marginally food secure","No School",0.3583304
+"633","Kenema","Kandu Leppiama","","Severely food insecure","Some secondary",0.6050925
+"634","Kenema","Malegohun","","Moderately food insecure","Some secondary",0.5618608
+"635","Falaba","Dembelia","","Marginally food secure","No School",0.2786251
+"636","Port Loko","Bureh","","Marginally food secure","No School",0.4801609
+"637","Karene","Sanda Tendaran","","Moderately food insecure","No School",0.9145132
+"638","Karene","Sella Limba","","Moderately food insecure","Completed Secondary",1.4316664
+"639","Kambia","Gbinle","","Marginally food secure","No School",0.4012426
+"640","Bombali","Makeni City","","Marginally food secure","No School",4.2129654
+"641","Western Area Slum","Slum","","Food secure","Some secondary",1.2575573
+"642","Karene","Romende","","Marginally food secure","No School",0.7074619
+"643","Koinadugu","Kamukeh","","Food secure","No School",0.2057309
+"644","Western Area Slum","Slum","","Marginally food secure","Some secondary",1.2575573
+"645","Bombali","Paki Masabong","","Moderately food insecure","No School",0.7699547
+"646","Pujehun","Barri","No, working for fewer hours/days","Marginally food secure","No School",0.9472675
+"647","Kono","Gbane","No chronic illness","Moderately food insecure","No School",0.671285
+"648","Kono","Koidu City","","Food secure","Some secondary",4.0313155
+"649","Tonkolili","Kholifa Mabang","","Marginally food secure","Some Primary",0.517196
+"650","Port Loko","Marampa","Yes, the same number of hours /days","Food secure","Some Primary",1.6520808
+"651","Pujehun","Panga","","Moderately food insecure","No School",1.3987109
+"652","Kono","Nimikoro","","Marginally food secure","No School",1.6391351
+"653","Port Loko","Kasseh","","Marginally food secure","No School",0.4162949
+"654","Kambia","Dixon","","Marginally food secure","Some secondary",0.2510313
+"655","Koinadugu","Wara Wara Bafodia","","Severely food insecure","No School",0.4132673
+"656","Kenema","Nongowa","","Marginally food secure","Completed Primary",1.4913091
+"657","Bombali","Makari","","Marginally food secure","Some secondary",1.4298134
+"658","Bombali","Ngowahun","","Severely food insecure","No School",0.7104767
+"659","Bo","Wonde","","Moderately food insecure","Some Primary",0.3490822
+"660","Moyamba","Timdale","","Moderately food insecure","Completed Primary",0.3483107
+"661","Koinadugu","Sengbe","","Marginally food secure","Completed Secondary",0.5581314
+"662","Moyamba","Kongbora","","Moderately food insecure","No School",0.3545449
+"663","Kailahun","Mandu","She/He is completely unable to work","Severely food insecure","Some secondary",0.8618948
+"664","Bo","Bagbwe(Bagbe)","No chronic illness","Marginally food secure","No School",0.5761842
+"665","Karene","Safroko","","Marginally food secure","No School",0.2952777
+"666","Moyamba","Kori","","Severely food insecure","Some secondary",0.8794012
+"667","Tonkolili","Yele","","Moderately food insecure","College/University",0.6876807
+"668","Koinadugu","Tamiso","","Food secure","No School",0.1697018
+"669","Koinadugu","Kamukeh","","Marginally food secure","No School",0.2057309
+"670","Moyamba","Ribbi","","Severely food insecure","Some Primary",1.0236714
+"671","Kambia","Masungbala","","Marginally food secure","Some Primary",0.4703749
+"672","Kono","Gbane Kandor","No, working for fewer hours/days","Marginally food secure","No School",0.3112468
+"673","Falaba","Dembelia","","Moderately food insecure","No School",0.2786251
+"674","Kambia","Muna Thalla","","Moderately food insecure","No School",0.3762014
+"675","Port Loko","Bureh","","Moderately food insecure","Some secondary",0.4801609
+"676","Bombali","Bombali Sebora","","Marginally food secure","No School",1.0406648
+"677","Karene","Romende","","Moderately food insecure","No School",0.7074619
+"678","Port Loko","Lokomasama","","Moderately food insecure","Some secondary",1.4808823
+"679","Pujehun","Soro Gbema","","Moderately food insecure","No School",1.1294005
+"680","Bombali","Paki Masabong","","Marginally food secure","No School",0.7699547
+"681","Kailahun","Kpeje West","","Marginally food secure","Some secondary",0.4683697
+"682","Kailahun","Penguia","","Food secure","Some secondary",0.5967944
+"683","Western Area Urban","East I","Never worked","Marginally food secure","College/University",1.8580343
+"684","Kailahun","Kpeje West","","Moderately food insecure","No School",0.4683697
+"685","Western Area Urban","East III","","Marginally food secure","College/University",13.175466
+"686","Western Area Urban","West II","","Food secure","Vocational/Technical Institute",4.4390705
+"687","Karene","Sanda Magbolontor","","Moderately food insecure","No School",0.5278306
+"688","Kono","Gbane Kandor","No, working for fewer hours/days","Moderately food insecure","No School",0.3112468
+"689","Kailahun","Kpeje West","She/He is completely unable to work","Moderately food insecure","No School",0.4683697
+"690","Pujehun","Kabonde","","Marginally food secure","No School",0.1262468
+"691","Koinadugu","Kamukeh","","Food secure","No School",0.2057309
+"692","Western Area Urban","Central I","","Marginally food secure","Completed Secondary",1.8276852
+"693","Kono","Lei","","Marginally food secure","Some Primary",0.5909324
+"694","Falaba","Wollay Barawa","","Severely food insecure","No School",0.4146298
+"695","Port Loko","Marampa","","Marginally food secure","No School",1.6520808
+"696","Kambia","Masungbala","","Marginally food secure","No School",0.4703749
+"697","Bo","Boama","","Marginally food secure","Some secondary",1.4582433
+"698","Kenema","Malegohun","","Marginally food secure","Some Primary",0.5618608
+"699","Karene","Tambakha Simibungie","","Moderately food insecure","Completed Secondary",0.2921028
+"700","Pujehun","Malen","","Marginally food secure","No School",1.0837293
+"701","Western Area Urban","East III","","Food secure","No School",13.175466
+"702","Tonkolili","Sambaya","","Marginally food secure","No School",0.7211742
+"703","Kenema","Lower Bambara","","Moderately food insecure","Completed Primary",2.3582384
+"704","Karene","Sella Limba","","Moderately food insecure","Some Primary",1.4316664
+"705","Bo","Bagbwe(Bagbe)","No chronic illness","Marginally food secure","College/University",0.5761842
+"706","Moyamba","Upper Banta","","Marginally food secure","Some secondary",0.3548562
+"707","Bo","Lugbu","","Marginally food secure","Some Primary",0.9347872
+"708","Bonthe","Bonthe Urban","","Moderately food insecure","No School",0.1954212
+"709","Kambia","Gbinle","","Marginally food secure","No School",0.4012426
+"710","Kono","Kamara","","Moderately food insecure","Some Primary",0.5097306
+"711","Kenema","Kandu Leppiama","Yes, the same number of hours /days","Severely food insecure","No School",0.6050925
+"712","Moyamba","Kamajei","","Marginally food secure","Vocational/Technical Institute",0.2839045
+"713","Koinadugu","Kamukeh","","Moderately food insecure","No School",0.2057309
+"714","Kenema","Dodo","No chronic illness","Moderately food insecure","No School",0.5602864
+"715","Kambia","Masungbala","","Marginally food secure","No School",0.4703749
+"716","Tonkolili","Mayeppoh","","Moderately food insecure","No School",0.5692711
+"717","Kailahun","Jahn","","Moderately food insecure","Some secondary",0.1944345
+"718","Tonkolili","Kunike Folawusu","","Moderately food insecure","No School",0.6151168
+"719","Bo","Bagbo","","Moderately food insecure","Some secondary",0.8386451
+"720","Koinadugu","Wara Wara Yagala","","Food secure","Some secondary",0.9880005
+"721","Kambia","Magbema","","Moderately food insecure","No School",2.8153019
+"722","Port Loko","Bakeh Loko","","Food secure","College/University",1.7416955
+"723","Port Loko","Maforki","She/He is completely unable to work","Moderately food insecure","No School",1.534993
+"724","Kenema","Tunkia","","Moderately food insecure","No School",0.9051959
+"725","Falaba","Dembelia","","Marginally food secure","No School",0.2786251
+"726","Tonkolili","Sambaya","","Food secure","No School",0.7211742
+"727","Bombali","Mara","","Marginally food secure","No School",0.4465518
+"728","Bombali","Kamaranka","","Moderately food insecure","Some Primary",0.3070851
+"729","Moyamba","Kori","","Moderately food insecure","Some secondary",0.8794012
+"730","Moyamba","Bumpeh","","Moderately food insecure","No School",1.2077506
+"731","Kono","Kamara","","Marginally food secure","Some secondary",0.5097306
+"732","Pujehun","Yakemu Kpukumu","","Moderately food insecure","No School",0.2721455
+"733","Bonthe","Yawbeko","","Severely food insecure","College/University",0.1756389
+"734","Karene","Sanda Magbolontor","","Moderately food insecure","Completed Primary",0.5278306
+"735","Port Loko","Makama","","Marginally food secure","No School",0.2828188
+"736","Kailahun","Mandu","","Severely food insecure","No School",0.8618948
+"737","Pujehun","Malen","","Marginally food secure","No School",1.0837293
+"738","Kenema","Small Bo","","Moderately food insecure","Some secondary",0.8906647
+"739","Moyamba","Ribbi","","Severely food insecure","No School",1.0236714
+"740","Kono","Mafindor","","Marginally food secure","No School",0.3164851
+"741","Bo","Boama","","Marginally food secure","No School",1.4582433
+"742","Kailahun","Kpeje Bongre","","Moderately food insecure","No School",0.6549239
+"743","Bo","Wonde","","Moderately food insecure","No School",0.3490822
+"744","Moyamba","Kaiyamba","","Marginally food secure","Some Primary",1.0392634
+"745","Kenema","Dodo","No chronic illness","Moderately food insecure","No School",0.5602864
+"746","Moyamba","Lower Banta","","Moderately food insecure","No School",1.318918
+"747","Kono","Mafindor","","Moderately food insecure","No School",0.3164851
+"748","Kenema","Simbaru","","Moderately food insecure","Some secondary",0.6005143
+"749","Pujehun","Perri","","Severely food insecure","No School",0.6914497
+"750","Moyamba","Timdale","","Moderately food insecure","No School",0.3483107
+"751","Kenema","Tunkia","","Moderately food insecure","No School",0.9051959
+"752","Kailahun","Luawa","","Moderately food insecure","No School",2.6739158
+"753","Pujehun","Panga krim","","Marginally food secure","No School",0.2235191
+"754","Bo","Bagbo","","Marginally food secure","No School",0.8386451
+"755","Kambia","Khonimaka","","Moderately food insecure","No School",0.3392629
+"756","Kailahun","Kissi Kama","","Moderately food insecure","No School",0.5201012
+"757","Moyamba","Kori","No chronic illness","Marginally food secure","No School",0.8794012
+"758","Bombali","Makeni City","","Marginally food secure","No School",4.2129654
+"759","Western Area Slum","Slum","","Moderately food insecure","Some secondary",1.2575573
+"760","Port Loko","Lokomasama","","Marginally food secure","No School",1.4808823
+"761","Kono","Fiama","","Moderately food insecure","No School",0.4323924
+"762","Western Area Urban","East III","","Marginally food secure","Completed Secondary",13.175466
+"763","Tonkolili","Kholifa Mabang","She/He is completely unable to work","Marginally food secure","No School",0.517196
+"764","Bombali","Bombali Siari","","Food secure","Some secondary",0.2292491
+"765","Moyamba","Upper Banta","","Moderately food insecure","Completed Secondary",0.3548562
+"766","Moyamba","Kowa","","Moderately food insecure","No School",0.3642655
+"767","Moyamba","Ribbi","","Marginally food secure","Some secondary",1.0236714
+"768","Tonkolili","Kholifa Rowala","","Food secure","Vocational/Technical Institute",1.5076716
+"769","Karene","Romende","","Moderately food insecure","No School",0.7074619
+"770","Bo","Bagbo","","Marginally food secure","No School",0.8386451
+"771","Kailahun","Kpeje West","","Marginally food secure","No School",0.4683697
+"772","Western Area Urban","West I","","Food secure","College/University",1.6877405
+"773","Tonkolili","Kunike Barina","","Marginally food secure","No School",0.6416997
+"774","Bo","Boama","","Marginally food secure","Some Primary",1.4582433
+"775","Bo","Tikonko","","Marginally food secure","Some secondary",1.6318566
+"776","Kenema","Nongowa","","Marginally food secure","No School",1.4913091
+"777","Kono","Fiama","","Moderately food insecure","College/University",0.4323924
+"778","Kailahun","Kpeje Bongre","","Moderately food insecure","Some Primary",0.6549239
+"779","Kenema","Malegohun","","Moderately food insecure","No School",0.5618608
+"780","Moyamba","Upper Banta","","Marginally food secure","No School",0.3548562
+"781","Kono","Kamara","","Moderately food insecure","College/University",0.5097306
+"782","Bombali","Biriwa","","Marginally food secure","No School",1.1840597
+"783","Bo","Niawa Lenga","","Marginally food secure","No School",0.4015236
+"784","Bonthe","Dema","","Marginally food secure","No School",0.2128079
+"785","Pujehun","Malen","","Moderately food insecure","Some secondary",1.0837293
+"786","Bombali","Bombali Siari","","Food secure","No School",0.2292491
+"787","Karene","Sella Limba","","Marginally food secure","Completed Primary",1.4316664
+"788","Karene","Romende","","Marginally food secure","No School",0.7074619
+"789","Kono","Sandor","","Marginally food secure","Some Primary",2.2790256
+"790","Kailahun","Jahn","","Moderately food insecure","No School",0.1944345
+"791","Kailahun","Luawa","","Moderately food insecure","No School",2.6739158
+"792","Falaba","Dembelia","","Moderately food insecure","No School",0.2786251
+"793","Falaba","Folosaba","","Severely food insecure","No School",0.2593644
+"794","Kambia","Dixon","","Moderately food insecure","No School",0.2510313
+"795","Western Area Rural","Mountain Rural","","Marginally food secure","College/University",1.2564135
+"796","Moyamba","Bagruwa","","Moderately food insecure","No School",0.8346273
+"797","Bonthe","Bum","","Moderately food insecure","Some Primary",0.7500878
+"798","Bonthe","Jong","","Moderately food insecure","Completed Secondary",1.0066476
+"799","Kailahun","Penguia","","Moderately food insecure","Completed Primary",0.5967944
+"800","Kenema","Dodo","","Severely food insecure",NA,0.5602864
+"801","Kambia","Bramaia","","Moderately food insecure","No School",0.51476
+"802","Bo","Bongor","","Severely food insecure","No School",0.4196253
+"803","Moyamba","Ribbi","","Severely food insecure","No School",1.0236714
+"804","Tonkolili","Poli","","Moderately food insecure","No School",0.2398532
+"805","Bonthe","Bonthe Urban","","Moderately food insecure","No School",0.1954212
+"806","Bombali","Makeni City","","Moderately food insecure","Completed Secondary",4.2129654
+"807","Port Loko","Kaffu Bullom","","Marginally food secure","Some Primary",3.2143547
+"808","Karene","Tambakha Yobangie","","Moderately food insecure","No School",0.5569147
+"809","Karene","Mafonda Makerembay","","Moderately food insecure","No School",0.1251912
+"810","Kenema","Small Bo","","Moderately food insecure","No School",0.8906647
+"811","Bo","Valunia","","Marginally food secure","Completed Primary",1.0621627
+"812","Western Area Slum","Slum","","Moderately food insecure","Completed Secondary",1.2575573
+"813","Kailahun","Luawa","","Marginally food secure","No School",2.6739158
+"814","Bonthe","Sittia","","Marginally food secure","No School",0.4738193
+"815","Karene","Dibia","","Marginally food secure","No School",0.4598979
+"816","Kambia","Bramaia","","Moderately food insecure","No School",0.51476
+"817","Kono","Toli","","Marginally food secure","Completed Secondary",0.1024239
+"818","Pujehun","Pejeh (Futa peje)","","Severely food insecure","No School",0.290343
+"819","Kambia","Bramaia","","Moderately food insecure","No School",0.51476
+"820","Kailahun","Penguia","","Moderately food insecure","Completed Secondary",0.5967944
+"821","Moyamba","Kagboro","","Moderately food insecure","Some secondary",1.1993893
+"822","Karene","Sella Limba","","Severely food insecure","Completed Primary",1.4316664
+"823","Kenema","Lower Bambara","","Moderately food insecure","No School",2.3582384
+"824","Tonkolili","Kunike Folawusu","She/He is completely unable to work","Moderately food insecure","No School",0.6151168
+"825","Karene","Sella Limba","","Moderately food insecure","College/University",1.4316664
+"826","Falaba","Kebelia","","Moderately food insecure","No School",0.2545047
+"827","Moyamba","Timdale","","Moderately food insecure","Completed Secondary",0.3483107
+"828","Kambia","Samu","","Marginally food secure","No School",1.544231
+"829","Bombali","Bombali Siari","","Food secure","No School",0.2292491
+"830","Bombali","Gbanti-1","","Moderately food insecure","Some secondary",1.4493465
+"831","Bombali","Bombali Sebora","","Marginally food secure","No School",1.0406648
+"832","Kono","Koidu City","","Moderately food insecure","No School",4.0313155
+"833","Kailahun","Njaluahun","","Moderately food insecure","No School",1.3062578
+"834","Kenema","Dodo","","Severely food insecure","No School",0.5602864
+"835","Bo","Bumpe Ngao","","Moderately food insecure","Some secondary",1.6833454
+"836","Falaba","Folosaba","","Moderately food insecure","No School",0.2593644
+"837","Kailahun","Kissi Tongi","","Moderately food insecure","No School",1.1434507
+"838","Kenema","Simbaru","","Moderately food insecure","No School",0.6005143
+"839","Falaba","Dembelia-Sinkunia","","Moderately food insecure","No School",0.5086367
+"840","Pujehun","Kpaka","","Severely food insecure","No School",0.446094
+"841","Western Area Slum","Slum","","Moderately food insecure","No School",1.2575573
+"842","Kono","Mafindor","","Moderately food insecure","No School",0.3164851
+"843","Falaba","Mongo","","Severely food insecure","No School",0.3465667
+"844","Tonkolili","Kafe","","Moderately food insecure","No School",0.1898305
+"845","Karene","Libeisaygahun/Gbombahun","","Severely food insecure","No School",0.3396967
+"846","Karene","Safroko","","Marginally food secure","College/University",0.2952777
+"847","Bonthe","Sittia","","Moderately food insecure","No School",0.4738193
+"848","Kenema","Gaura","","Marginally food secure","College/University",0.6096904
+"849","Bonthe","Sittia","","Moderately food insecure","Some Primary",0.4738193
+"850","Port Loko","Kasseh","","Moderately food insecure","No School",0.4162949
+"851","Pujehun","Perri","","Moderately food insecure","Some Primary",0.6914497
+"852","Bombali","Bombali Siari","","Marginally food secure","No School",0.2292491
+"853","Falaba","Mongo","","Moderately food insecure","No School",0.3465667
+"854","Karene","Mafonda Makerembay","","Moderately food insecure","No School",0.1251912
+"855","Karene","Safroko","","Moderately food insecure","No School",0.2952777
+"856","Western Area Urban","Central I","","Food secure","College/University",1.8276852
+"857","Moyamba","Timdale","","Food secure","Vocational/Technical Institute",0.3483107
+"858","Western Area Urban","West II","","Moderately food insecure","Some secondary",4.4390705
+"859","Kambia","Magbema","","Marginally food secure","College/University",2.8153019
+"860","Bonthe","Nongoba Bullom","","Moderately food insecure","Some secondary",0.571308
+"861","Bombali","Mara","","Moderately food insecure","Vocational/Technical Institute",0.4465518
+"862","Karene","Sanda Loko","","Severely food insecure","No School",1.2619816
+"863","Kenema","Dama","","Severely food insecure","No School",0.9802876
+"864","Kambia","Samu","","Marginally food secure","No School",1.544231
+"865","Port Loko","Thainkatopa","","Moderately food insecure","Completed Primary",0.2597262
+"866","Kailahun","Upper Bambara","","Marginally food secure","No School",0.9285215
+"867","Port Loko","Masimera","No, working for fewer hours/days","Marginally food secure","No School",1.427643
+"868","Tonkolili","Kholifa Mamuntha/Mayosso","","Marginally food secure","Completed Primary",0.4632227
+"869","Kenema","Gaura","","Marginally food secure","No School",0.6096904
+"870","Bombali","Makeni City","","Marginally food secure","No School",4.2129654
+"871","Western Area Urban","West III","","Food secure","Completed Secondary",6.173548
+"872","Bo","Gbo","","Food secure","No School",0.1992564
+"873","Moyamba","Bagruwa","","Severely food insecure","Some secondary",0.8346273
+"874","Bombali","Bombali Sebora","","Marginally food secure","No School",1.0406648
+"875","Kambia","Muna Thalla","","Marginally food secure","College/University",0.3762014
+"876","Bo","Bagbwe(Bagbe)","No chronic illness","Marginally food secure","No School",0.5761842
+"877","Bonthe","Bonthe Urban","","Marginally food secure","Vocational/Technical Institute",0.1954212
+"878","Kenema","Kenema City","","Marginally food secure","No School",6.0810676
+"879","Koinadugu","Gbonkobon Kayaka","","Marginally food secure","No School",0.1931609
+"880","Port Loko","Thainkatopa","","Marginally food secure","Some secondary",0.2597262
+"881","Bonthe","Bendu-Cha","","Moderately food insecure","College/University",0.1881044
+"882","Bonthe","Kwamebai Krim","","Moderately food insecure","College/University",0.2944341
+"883","Kailahun","Kissi Kama","","Marginally food secure","No School",0.5201012
+"884","Tonkolili","Malal","","Marginally food secure","No School",0.3583304
+"885","Falaba","Kulor Saradu","","Moderately food insecure","Some Primary",0.2207506
+"886","Pujehun","Panga","","Severely food insecure","Completed Primary",1.3987109
+"887","Kono","Gbane","","Moderately food insecure","Vocational/Technical Institute",0.671285
+"888","Karene","Dibia","","Marginally food secure","No School",0.4598979
+"889","Karene","Libeisaygahun/Gbombahun","","Food secure","No School",0.3396967
+"890","Kailahun","Luawa","","Moderately food insecure","Some secondary",2.6739158
+"891","Bonthe","Sogbeni","","Marginally food secure","No School",0.2551938
+"892","Kenema","Simbaru","","Marginally food secure","Some secondary",0.6005143
+"893","Bo","Bongor","","Moderately food insecure","Some Primary",0.4196253
+"894","Bonthe","Yawbeko","","Severely food insecure","Some secondary",0.1756389
+"895","Western Area Urban","East II","","Marginally food secure","Some secondary",2.7733612
+"896","Karene","Sella Limba","","Moderately food insecure","No School",1.4316664
+"897","Pujehun","Panga krim","","Moderately food insecure","No School",0.2235191
+"898","Kailahun","Kissi Teng","","Moderately food insecure","No School",1.0208497
+"899","Kenema","Simbaru","","Food secure","Completed Secondary",0.6005143
+"900","Koinadugu","Tamiso","No chronic illness","Moderately food insecure","No School",0.1697018
+"901","Western Area Urban","Central II","","Moderately food insecure","No School",0.7089255
+"902","Falaba","Sulima","","Moderately food insecure","No School",0.6566527
+"903","Tonkolili","Dansogoia","","Marginally food secure","Completed Primary",0.6328066
+"904","Bonthe","Dema","","Marginally food secure","No School",0.2128079
+"905","Kenema","Kenema City","","Marginally food secure","No School",6.0810676
+"906","Bo","Wonde","","Moderately food insecure","No School",0.3490822
+"907","Kambia","Tonko Limba","","Severely food insecure","No School",1.3581587
+"908","Kailahun","Luawa","","Marginally food secure","No School",2.6739158
+"909","Kenema","Dama","","Marginally food secure","No School",0.9802876
+"910","Falaba","Kebelia","","Moderately food insecure","No School",0.2545047
+"911","Western Area Slum","Slum","","Marginally food secure","College/University",1.2575573
+"912","Kenema","Kandu Leppiama","","Moderately food insecure","No School",0.6050925
+"913","Bombali","Magbaimba Ndorwahun","","Marginally food secure","No School",0.3479133
+"914","Karene","Sanda Loko","","Moderately food insecure","Some Primary",1.2619816
+"915","Bo","Jaiama","","Moderately food insecure","No School",0.4800562
+"916","Moyamba","Bumpeh","","Moderately food insecure","No School",1.2077506
+"917","Kono","Toli","","Moderately food insecure","No School",0.1024239
+"918","Port Loko","Kaffu Bullom","","Food secure","Completed Primary",3.2143547
+"919","Moyamba","Fakunya","","Moderately food insecure","Some Primary",0.9662584
+"920","Kailahun","Mandu","","Moderately food insecure","No School",0.8618948
+"921","Falaba","Mongo","","Severely food insecure","College/University",0.3465667
+"922","Kenema","Gaura","","Moderately food insecure","No School",0.6096904
+"923","Moyamba","Kamajei","","Severely food insecure","No School",0.2839045
+"924","Pujehun","Soro Gbema","","Moderately food insecure","No School",1.1294005
+"925","Karene","Sella Limba","","Marginally food secure","Some Primary",1.4316664
+"926","Kono","Toli","","Moderately food insecure","No School",0.1024239
+"927","Bo","Bo Town","","Marginally food secure","Some secondary",4.9102714
+"928","Western Area Urban","Central I","","Food secure","College/University",1.8276852
+"929","Kailahun","Kissi Teng","","Moderately food insecure","No School",1.0208497
+"930","Pujehun","Galliness","","Severely food insecure","Vocational/Technical Institute",0.4706213
+"931","Tonkolili","Yele","","Moderately food insecure","No School",0.6876807
+"932","Port Loko","Kasseh","","Marginally food secure","No School",0.4162949
+"933","Bo","Valunia","","Severely food insecure","Completed Secondary",1.0621627
+"934","Tonkolili","Kunike Barina","No, working for fewer hours/days","Marginally food secure","No School",0.6416997
+"935","Bo","Bo Town","","Marginally food secure","No School",4.9102714
+"936","Kono","Fiama","No chronic illness","Marginally food secure","Completed Secondary",0.4323924
+"937","Kenema","Wandor","","Moderately food insecure","Some secondary",0.557397
+"938","Tonkolili","Yoni Mabanta","","Severely food insecure","No School",0.9002567
+"939","Pujehun","Galliness","","Severely food insecure","No School",0.4706213
+"940","Bombali","Bombali Sebora","","Moderately food insecure","College/University",1.0406648
+"941","Port Loko","Maconteh","","Marginally food secure","No School",0.2580322
+"942","Kenema","Kenema City","","Marginally food secure","Completed Secondary",6.0810676
+"943","Kono","Nimiyama","","Moderately food insecure","No School",0.8542261
+"944","Kono","Kamara","","Moderately food insecure","No School",0.5097306
+"945","Port Loko","Kamasondo","","Moderately food insecure","No School",0.9860628
+"946","Bo","Boama","","Marginally food secure","No School",1.4582433
+"947","Karene","Libeisaygahun/Gbombahun","","Severely food insecure","No School",0.3396967
+"948","Koinadugu","Kalian","","Moderately food insecure","No School",0.4959283
+"949","Kono","Gbense","No, working for fewer hours/days","Marginally food secure","Completed Secondary",0.4660951
+"950","Kambia","Gbinle","","Marginally food secure","No School",0.4012426
+"951","Bo","Bo Town","","Food secure","No School",4.9102714
+"952","Western Area Urban","Central I","","Moderately food insecure","No School",1.8276852
+"953","Tonkolili","Tane","","Moderately food insecure","No School",1.0216635
+"954","Kenema","Dodo","","Moderately food insecure","No School",0.5602864
+"955","Bo","Wonde","","Moderately food insecure","No School",0.3490822
+"956","Kono","Sandor","","Marginally food secure","Some secondary",2.2790256
+"957","Kambia","Magbema","","Marginally food secure","No School",2.8153019
+"958","Falaba","Dembelia-Sinkunia","","Moderately food insecure","No School",0.5086367
+"959","Kailahun","Upper Bambara","","Marginally food secure","Some secondary",0.9285215
+"960","Bo","Bagbo","","Marginally food secure","Some secondary",0.8386451
+"961","Bo","Bagbo","","Moderately food insecure","College/University",0.8386451
+"962","Falaba","Mongo","","Moderately food insecure","Some Primary",0.3465667
+"963","Kenema","Koya-1","","Severely food insecure","No School",0.4694293
+"964","Tonkolili","Kholifa Rowala","","Moderately food insecure","Completed Secondary",1.5076716
+"965","Kailahun","Njaluahun","","Marginally food secure","No School",1.3062578
+"966","Kenema","Nongowa","","Food secure","No School",1.4913091
+"967","Kailahun","Kissi Tongi","","Moderately food insecure","No School",1.1434507
+"968","Bombali","Safroko Limba","","Marginally food secure","No School",0.8913851
+"969","Moyamba","Ribbi","","Moderately food insecure","Some secondary",1.0236714
+"970","Pujehun","Kpaka","","Severely food insecure","Some secondary",0.446094
+"971","Pujehun","Galliness","","Severely food insecure","No School",0.4706213
+"972","Pujehun","Makpele","","Moderately food insecure","No School",0.8219445
+"973","Falaba","Kebelia","","Moderately food insecure","College/University",0.2545047
+"974","Karene","Safroko","","Moderately food insecure","No School",0.2952777
+"975","Bo","Badjia","","Marginally food secure","College/University",0.2586598
+"976","Kailahun","Kpeje West","","Marginally food secure","No School",0.4683697
+"977","Karene","Romende","","Marginally food secure","No School",0.7074619
+"978","Bombali","Bombali Siari","","Severely food insecure","No School",0.2292491
+"979","Bo","Lugbu","","Marginally food secure","No School",0.9347872
+"980","Moyamba","Kagboro","","Severely food insecure","College/University",1.1993893
+"981","Falaba","Kebelia","","Moderately food insecure","No School",0.2545047
+"982","Kono","Koidu City","","Moderately food insecure","Completed Primary",4.0313155
+"983","Bo","Bo Town","","Food secure","College/University",4.9102714
+"984","Kailahun","Kpeje West","","Moderately food insecure","No School",0.4683697
+"985","Kailahun","Dea","","Marginally food secure","Some secondary",0.3985007
+"986","Falaba","Delemandugu","","Moderately food insecure","No School",0.4536044
+"987","Kenema","Nongowa","","Food secure","No School",1.4913091
+"988","Kenema","Kandu Leppiama","","Marginally food secure","No School",0.6050925
+"989","Bonthe","Yawbeko","","Marginally food secure","College/University",0.1756389
+"990","Bo","Gbo","Yes, the same number of hours /days","Moderately food insecure","No School",0.1992564
+"991","Tonkolili","Kalanthuba","","Marginally food secure","No School",0.2903288
+"992","Kenema","Dodo","","Moderately food insecure","Some Primary",0.5602864
+"993","Bo","Niawa Lenga","","Severely food insecure","No School",0.4015236
+"994","Falaba","Folosaba","","Marginally food secure","No School",0.2593644
+"995","Falaba","Mongo","","Moderately food insecure","No School",0.3465667
+"996","Karene","Libeisaygahun/Gbombahun","","Moderately food insecure","No School",0.3396967
+"997","Falaba","Morifindugu","","Marginally food secure","Some secondary",0.2313086
+"998","Karene","Gbanti-2","","Severely food insecure","No School",1.4493465
+"999","Bombali","Makeni City","","Marginally food secure","Some secondary",4.2129654
+"1000","Moyamba","Kowa","","Moderately food insecure","College/University",0.3642655
